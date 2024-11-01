@@ -1,0 +1,13 @@
+sample_name	Treatment	Mutant
+WT48_3	No	No
+WT48_2	No	No
+WT48_1	No	No
+WTA96_3	ABA	No
+WTA96_2	ABA	No
+WTA96_1	ABA	No
+ATG748_3	No	Yes
+ATG748_2	No	Yes
+ATG748_1	No	Yes
+ATG7A96_3	ABA	Yes
+ATG7A96_2	ABA	Yes
+ATG7A96_1	ABA	Yes
